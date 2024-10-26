@@ -1,0 +1,20 @@
+# Ignore everything:
+/Assets/*
+!/Assets/FishyKCP
+!/Assets/FishyKCP.meta
+!.gitignore
+
+/Library/
+/Packages/
+/ProjectSettings/
+/Temp/
+/Builds/
+/UserSettings/
+/Obj/
+/Logs/
+*.csproj
+*.vs/
+*.vsconfig
+*.csproj.meta
+.idea
+MemoryCaptures
